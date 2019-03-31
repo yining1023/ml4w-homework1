@@ -2,7 +2,7 @@ let video;
 let classifier;
 
 function setup() {
-  createCanvas(300, 300);
+  createCanvas(400, 400);
 
   video = createCapture(VIDEO);
 
